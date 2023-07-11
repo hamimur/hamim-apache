@@ -1,0 +1,3 @@
+---
+# vars file for hamim-apache
+package_name: httpd
